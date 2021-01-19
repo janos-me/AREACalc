@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AREACalc", "AREACalc\AREACalc.csproj", "{398B376F-C923-4B84-854E-6C97D0B139C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AREACalcTests", "AREACalcTests\AREACalcTests.csproj", "{91D82923-FA7E-4FBF-920A-E25C33116C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398B376F-C923-4B84-854E-6C97D0B139C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398B376F-C923-4B84-854E-6C97D0B139C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398B376F-C923-4B84-854E-6C97D0B139C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398B376F-C923-4B84-854E-6C97D0B139C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D82923-FA7E-4FBF-920A-E25C33116C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D82923-FA7E-4FBF-920A-E25C33116C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D82923-FA7E-4FBF-920A-E25C33116C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D82923-FA7E-4FBF-920A-E25C33116C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F335840-5721-4834-9160-DBF3ED11C544}
+	EndGlobalSection
+EndGlobal
